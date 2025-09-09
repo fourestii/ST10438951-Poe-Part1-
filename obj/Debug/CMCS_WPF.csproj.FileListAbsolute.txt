@@ -1,0 +1,15 @@
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\bin\Debug\CMCS_WPF.exe.config
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\bin\Debug\CMCS_WPF.exe
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\bin\Debug\CMCS_WPF.pdb
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\obj\Debug\CMCS_WPF.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\obj\Debug\MainWindow.baml
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\obj\Debug\App.g.cs
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\obj\Debug\CMCS_WPF_MarkupCompile.cache
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\obj\Debug\CMCS_WPF.g.resources
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\obj\Debug\CMCS_WPF.Properties.Resources.resources
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\obj\Debug\CMCS_WPF.csproj.GenerateResource.cache
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\obj\Debug\CMCS_WPF.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\obj\Debug\CMCS_WPF.exe
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\obj\Debug\CMCS_WPF.pdb
+C:\Users\RC_Student_lab\source\repos\CMCS_WPF\obj\Debug\CMCS_WPF_MarkupCompile.lref
